@@ -16,7 +16,7 @@ public class DataTypes {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        char letter = 'A';
+        char letter = 'B';
         /*
         char is a singular letter
         */
